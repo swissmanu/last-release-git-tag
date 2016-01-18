@@ -11,4 +11,4 @@ test/registry/data
 .tmp
 
 # build-artifacts
-dist
+#dist
